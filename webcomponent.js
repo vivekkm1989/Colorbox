@@ -32,5 +32,5 @@
 		}
 	}
 
-	customElements.define("com-sap-sample-coloredbox", ColorBox1);
+	customElements.define("com-infy-colorbox-solution1", ColorBox1);
 })();
