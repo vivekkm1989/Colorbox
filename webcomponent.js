@@ -32,5 +32,5 @@
 		}
 	}
 
-	customElements.define("com-sap-sample-coloredbox", ColoredBox);
+	customElements.define("com-sap-sample-coloredbox", ColorBox1);
 })();
