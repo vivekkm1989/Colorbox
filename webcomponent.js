@@ -28,6 +28,7 @@
 		}
 
 		get color() {
+			console.log("inside main get");
 			return this.style["background-color"];
 		}
 	}
