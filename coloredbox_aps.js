@@ -38,6 +38,7 @@
 		}
 
 		get color() {
+			console.log("inside aps get");
 			return this._shadowRoot.getElementById("aps_color").value;
 		}
 	}
